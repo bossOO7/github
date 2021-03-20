@@ -1,4 +1,4 @@
-export const data=[
+[
   {
     "Department Name": "Department1",
     "Sales": 1000,
